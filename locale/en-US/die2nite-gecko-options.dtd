@@ -1,0 +1,6 @@
+<!ENTITY prefwindow.title "Die2Nite Gecko preferences">
+<!ENTITY pane1.title "Die2nite Gecko preferences">
+<!ENTITY autoupdate.label "You add keys by using the tool to auto-update.">
+<!ENTITY howtouse.label "If your keys need to be reset, check this box, and update.">
+<!ENTITY clearkeys.label "Clear Your Keys">
+<!ENTITY clearkeys.accesskey "C">

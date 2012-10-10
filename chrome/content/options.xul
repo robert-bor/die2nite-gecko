@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<!DOCTYPE prefwindow SYSTEM "chrome://die2nite-gecko/locale/die2nite-gecko-options.dtd">
+
+<prefwindow id="die2nite-gecko-preferences" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" title="&prefwindow.title;">
+
+    <prefpane id="pane1" label="&pane1.title;">
+        <preferences>
+            <preference id="clearkeys" name="extensions.d2nagent.clearkeys" type="bool"/>
+        </preferences>
+
+        <label>&autoupdate.label;</label>
+        <label>&howtouse.label;</label>
+
+        <checkbox id="clearkeys" accesskey="&clearkeys.accesskey;" preference="clearkeys" label="&clearkeys.label;" />
+
+    </prefpane>
+
+</prefwindow>

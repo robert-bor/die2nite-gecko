@@ -1,0 +1,11 @@
+#context-die2nite-gecko {
+    list-style-image: url("chrome://die2nite-gecko/skin/16x16.png");
+}
+
+#die2nite-gecko-toolbar-button {
+    list-style-image: url("chrome://die2nite-gecko/skin/24x24.png");
+}
+
+[iconsize="small"] #die2nite-gecko-toolbar-button {
+    list-style-image: url("chrome://die2nite-gecko/skin/16x16.png");
+}

@@ -1,0 +1,9 @@
+content     die2nite-gecko    chrome/content/
+content     die2nite-gecko    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://die2nite-gecko/content/browser.xul
+
+locale	die2nite-gecko	en-US	locale/en-US/
+
+overlay   chrome://browser/content/browser.xul   chrome://die2nite-gecko/content/browser.xul
+skin	die2nite-gecko	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://die2nite-gecko/skin/die2nite-gecko.css
